@@ -17,3 +17,5 @@ Hi! I'm Manz, FullStack developer and 🥑 FrontEnd advocate & WebPlatform stand
 - Blog: [Emezeta](https://www.emezeta.com/)
 - Youtube: [ManzDev](https://bit.ly/manzdev)
 - Instagram: [@joseromanhdez](https://instagram.com/joseromanhdez)
+
+[![FrontEnd Cheatsheets](https://raw.githubusercontent.com/ManzDev/manzdev/master/cheatsheets.png)](https://twitter.com/Manz/status/1275338301172600837)
