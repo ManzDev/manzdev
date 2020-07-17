@@ -2,7 +2,9 @@
 
 ![ManzDev - GitHub Profile](https://raw.githubusercontent.com/ManzDev/manzdev/master/github-profile.png)
 
-Hi! I'm Manz, FullStack developer and 🥑 FrontEnd advocate & WebPlatform standards. FullStack/Frontend Tenerife Program Mentor, Teacher & Director at [@eoi](https://twitter.com/eois) and Teacher [@ull](https://twitter.com/ull).
+Hi! I'm Manz, FullStack developer and 🥑 FrontEnd advocate & WebPlatform standards.
+
+FullStack/Frontend Tenerife Program Mentor, Teacher & Director at [@eoi](https://twitter.com/eois) and Teacher [@ull](https://twitter.com/ull).
 
 ## My works
 
