@@ -1,17 +1,24 @@
 # J. Román — @ManzDev
 
+[![Twitter: Manz](https://img.shields.io/twitter/follow/Manz?style=social)](https://twitter.com/Manz)
+[![GitHub: ManzDev](https://img.shields.io/github/followers/ManzDev?label=ManzDev&style=social)](https://github.com/ManzDev)
+
 ![ManzDev - GitHub Profile](https://raw.githubusercontent.com/ManzDev/manzdev/master/github-profile.png)
 
-Hi! I'm Manz, FullStack developer and 🥑 FrontEnd advocate & WebPlatform standards. <br>
-FullStack/Frontend Tenerife Program Mentor, Teacher & Director at [@eoi](https://twitter.com/eois) and Teacher [@ull](https://twitter.com/ull).
+Hi! I'm Manz, 👨🏽‍💻 FullStack developer and 🥑 FrontEnd / WebPlatform standards  advocate<br>
+FullStack/Frontend Tenerife Program Mentor, Teacher & Director at [@eoi](https://twitter.com/eoi) & Teacher at [@ull](https://twitter.com/ull)
 
-## My works
+## My works [🏷️](https://lenguajehtml.com/) [🎨](https://lenguajecss.com/) [🤖](https://lenguajejs.com/) [👨🏽‍💻](https://terminaldelinux.com/) [🏓](https://manzdev.github.io/)
 
-- 🏷️ [LenguajeHTML](https://lenguajehtml.com/) spanish platform for HTML tags & related issues
-- 🎨 [LenguajeCSS](https://lenguajecss.com/) spanish platform for CSS world & web design
-- 🤖 [LenguajeJS](https://lenguajejs.com/) spanish platform for web programming & Javascript ecosystem
-- 👨🏽‍💻 [TerminalDeLinux](https://terminaldelinux.com) spanish platform for modern terminal/console & automated tasks
-- 🏓 [ManzDev/Demos](https://manzdev.github.io/) frontend (html/css/js/webcomponents) fun demos
+```js
+const works = [
+  { name: "🏷️ LenguajeHTML", url: "https://lenguajehtml.com/" },
+  { name: "🎨 LenguajeCSS", url: "https://lenguajecss.com/" },
+  { name: "🤖 LenguajeJS", url: "https://lenguajejs.com/" },
+  { name: "👨🏽‍💻 TerminalDeLinux", url: "https://terminaldelinux.com/" },
+  { name: "🏓 ManzDev/Demos", url: "https://manzdev.github.io/" }
+]
+```
 
 ## Profiles
 
