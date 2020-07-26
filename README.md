@@ -3,7 +3,7 @@
 [![Twitter: Manz](https://img.shields.io/twitter/follow/Manz?style=social)](https://twitter.com/Manz)
 [![GitHub: ManzDev](https://img.shields.io/github/followers/ManzDev?label=ManzDev&style=social)](https://github.com/ManzDev)
 
-![ManzDev - GitHub Profile](https://raw.githubusercontent.com/ManzDev/manzdev/master/github-profile.png)
+![ManzDev - GitHub Profile](https://raw.githubusercontent.com/ManzDev/manzdev/master/github-profile.jpg)
 
 Hi! I'm Manz, 👨🏽‍💻 FullStack developer and 🥑 FrontEnd / WebPlatform standards  advocate<br>
 FullStack/Frontend Tenerife Program Mentor, Teacher & Director at [@eoi](https://twitter.com/eoi) & Teacher at [@ull](https://twitter.com/ull)
