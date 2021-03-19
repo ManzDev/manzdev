@@ -2,6 +2,7 @@
 
 [![Twitter: Manz](https://img.shields.io/twitter/follow/Manz?style=social)](https://twitter.com/Manz)
 [![GitHub: ManzDev](https://img.shields.io/github/followers/ManzDev?label=ManzDev&style=social)](https://github.com/ManzDev)
+[![Twitch: ManzDev](https://img.shields.io/twitch/status/ManzDev?label=Twitch&style=social)](https://twitch.tv/ManzDev)
 
 ![ManzDev - GitHub Profile](https://raw.githubusercontent.com/ManzDev/manzdev/master/github-profile.jpg)
 
