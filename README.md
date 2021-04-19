@@ -23,9 +23,11 @@ const works = [
 
 ## Profiles
 
-- Me: [Twitter](https://twitter.com/Manz) 🐦 or [Instagram](https://instagram.com/joseromanhdez) 📷
+- Me: [Twitter](https://twitter.com/Manz) 🐦 
+- Twitch: [ManzDev](https://twitch.tv/ManzDev) 🎬
+- Youtube: [ManzDev](https://youtube.com/c/ManzDev) 🎬
+- [Instagram](https://instagram.com/joseromanhdez) 📷
 - Find me on [Linkedin](https://www.linkedin.com/in/joseromanhdez/) 💼
 - Blog: [Emezeta](https://www.emezeta.com/) ✍️
-- Youtube: [ManzDev](https://bit.ly/manzdev) 🎬
 
 [![FrontEnd Cheatsheets](https://raw.githubusercontent.com/ManzDev/manzdev/master/cheatsheets.png)](https://twitter.com/Manz/status/1275338301172600837)
