@@ -1,4 +1,4 @@
-# J. Román — @ManzDev [Manz.dev](https://manz.dev/)
+# @ManzDev — [Manz.dev](https://manz.dev/)
 
 [![Twitter: Manz](https://img.shields.io/twitter/follow/Manz?style=social)](https://twitter.com/Manz)
 [![GitHub: ManzDev](https://img.shields.io/github/followers/ManzDev?label=ManzDev&style=social)](https://github.com/ManzDev)
