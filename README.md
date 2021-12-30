@@ -26,7 +26,7 @@ const works = [
 - Me: [Twitter](https://twitter.com/Manz) 🐦 
 - Twitch: [ManzDev](https://twitch.tv/ManzDev) 🎬
 - Youtube: [ManzDev](https://youtube.com/c/ManzDev) 🎬
-- [Instagram](https://instagram.com/joseromanhdez) 📷
+- [Instagram](https://instagram.com/manz.dev) 📷
 - Find me on [Linkedin](https://www.linkedin.com/in/joseromanhdez/) 💼
 - Blog: [Emezeta](https://www.emezeta.com/) ✍️
 
