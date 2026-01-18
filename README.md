@@ -31,7 +31,7 @@ const works = [
 
 ## Profiles
 
-- Me: [Twitter](https://twitter.com/Manz) 🐦
+- Twitter: [Manz](https://twitter.com/Manz) 🐦
 - Twitch: [ManzDev](https://twitch.tv/ManzDev) 🎬
 - Youtube: [@ManzDev](https://youtube.com/c/ManzDev) 🎬
 - Instagram: [@manz.dev](https://instagram.com/manz.dev) 📷
